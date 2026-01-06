@@ -1,0 +1,8 @@
+{
+  "name": "RIP",
+  "symbol": "RIP",
+  "decimals": 18,
+  "type": "ERC20",
+  "logoURI": "https://raw.githubusercontent.com/thejarhed/rip-token-assets/main/logo.png"
+}
+
